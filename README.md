@@ -1,2 +1,2 @@
 # freeCodeGram
-An Instagram page type with all the functionalities. Built in Laravel.
+An Instagram page clone with all the functionalities. Built in Laravel.
